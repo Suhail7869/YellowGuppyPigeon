@@ -9,4 +9,10 @@ namespace Think360Project
     class Login
     {
     }
+    
+    class Name
+    {
+        
+    }
+    }
 }
